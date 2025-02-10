@@ -1,0 +1,46 @@
+# Archivos y carpetas generados por el compilador
+bin/
+obj/
+
+# Archivos de usuario específicos del entorno
+*.user
+*.suo
+*.csproj.user
+
+# Archivos de configuración de Visual Studio
+.vs/
+.vscode/
+
+# Archivos de configuración de Rider
+.idea/
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de log
+*.log
+
+# Archivos de bases de datos locales
+*.db
+
+# Archivos de copia de seguridad
+*.bak
+
+# Archivos temporales y de sistema
+*.tmp
+*.swp
+
+# Archivos de configuración de herramientas de desarrollo
+*.suo
+*.user
+*.userosscache
+*.pdb
+*.tlog
+*.log

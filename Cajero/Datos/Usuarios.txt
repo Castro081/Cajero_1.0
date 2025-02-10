@@ -1,0 +1,5 @@
+7|Daimler´ss Hamitón|Castro Aguilar|8888888888888888|8888|32169784|ivancastro02.ic@gmail.com|10 avenida zona11|2000|1000|False|False
+8|s|s|4074212420603872|3333|44444444|sds@|s|2222|22|True|False
+9|9|9|5171058241519425|9999|iiiiiiii|i|i|2000|999|True|False
+10|Daimler´ss Hamilton|Castro Aguilar|2382688072931390|2222|22222222|sdadsada@|10 avenida zona11|2000|2222|True|False
+11|ddsd|dsds|9944339113895967|2222|22222222|sdasda@|sdds|2000|222|True|False
